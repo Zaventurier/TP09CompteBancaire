@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d5fd458-0e80-47e6-9a55-ce2067c4c75c" name="Changes" comment="Acceseurs, modificateurs, méthodes, class écran réaliser (phase de test en cours)">
+    <list default="true" id="2d5fd458-0e80-47e6-9a55-ce2067c4c75c" name="Changes" comment="Tp 9 - Terminé">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tpBanque/exercice1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tpBanque/Banque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tpBanque/Banque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tpBanque/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tpBanque/Compte.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666021809872</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tp 9 - Terminé">
+      <created>1666190411198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666190411198</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Premier Commit" />
     <MESSAGE value="Acceseurs, modificateurs, méthodes, class écran réaliser (phase de test en cours)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Acceseurs, modificateurs, méthodes, class écran réaliser (phase de test en cours)" />
+    <MESSAGE value="Tp 9 - Terminé" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tp 9 - Terminé" />
   </component>
 </project>
